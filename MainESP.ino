@@ -1,4 +1,4 @@
-//last updated on 13/09/2024 12pm
+//CODE FOR MAIN ESP32
 
 #include <esp_now.h>
 #include <WiFi.h>
